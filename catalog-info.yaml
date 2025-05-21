@@ -8,7 +8,7 @@ metadata:
     - react
     - nextjs
   annotations:
-    github.com/project-slug: external-spotify-portal-demo/my-react-app
+    github.com/project-slug: spotify-portal-public-demo/my-react-app
     backstage.io/techdocs-ref: dir:.
 spec:
   type: website
